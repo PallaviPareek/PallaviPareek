@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pallavi Pareek</h1>
 <h3 align="center">A passionate UI/UX Designer, Frontend Developer.</h3>
 
-- 🔭 I’m currently working as **UI Designer Intern at Cross Skills**
+- 🔭 I’m currently looking for Internships
 
 - 🌱 I’m currently learning **Flutter App Development, Framer.**
 
